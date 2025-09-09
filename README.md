@@ -5,12 +5,12 @@
 <h1 align="center">Olá, eu sou Muhammad Sholahudin</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&width=435&lines=Web+Development;UI%2FUX+Designer)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&width=435&lines=Web+Development;UI%2FUX+Designer">
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh4ZWYyMjVldDgzY3NqNmJqcHZ4aGExamZ1dzF2d3lkc3Vpa3VybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SGM61AYjBkkdRb6peF/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh4ZWYyMjVldDgzY3NqNmJqcHZ4aGExamZ1dzF2d3lkc3Vpa3VybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SGM61AYjBkkdRb6peF/giphy.gif" width="30"> Tentang Saya
 
 - 🌱 I'm passionate about **Web Development** 
 - 🌼 Studying at Duta Bangsa University
