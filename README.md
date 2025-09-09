@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou Muhammad Sholahudin</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=63F733&width=435&lines=Web+Developer)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=63F733&width=435&lines=Web+Developer">
 </div>
 
 <br>
@@ -13,6 +13,7 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh4ZWYyMjVldDgzY3NqNmJqcHZ4aGExamZ1dzF2d3lkc3Vpa3VybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SGM61AYjBkkdRb6peF/giphy.gif" width="30"> About Me
 
 - 🌱 I'm passionate about **Web Development** 
+- 🌼 Studying at Duta Bangsa University
 
 ## 🛠️ Technologies & Tools
 
@@ -41,12 +42,6 @@
 </div>
 
 <div align="center"><i>Note: Includes private repository contributions. Actual usage may vary as it's based on GitHub's language detection.</i></div>
-
-## 📅 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurikhsanuddin&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" />
-</div>
 
 ## 🎯 Skills
 
