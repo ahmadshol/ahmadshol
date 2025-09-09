@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou Muhammad Sholahudin</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=63F733&width=435&lines=Web+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=1BF711&center=true&vCenter=true&lines=Web+Development;UI%2FUX+Designer">
 </div>
 
 <br>
@@ -41,7 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurikhsanuddin&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss&count_private=true&border_radius=10" alt="Top Languages" />
 </div>
 
-<div align="center"><i>Note: Includes private repository contributions. Actual usage may vary as it's based on GitHub's language detection.</i></div>
 
 ## 🎯 Skills
 
