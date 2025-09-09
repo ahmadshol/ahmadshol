@@ -15,7 +15,7 @@
 - 🌱 I'm passionate about **Web Development** 
 - 🌼 Studying at Duta Bangsa University
 
-## 🛠️ Technologies & Tools
+## 🛠️ Teknologi Yang Digunakan
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Inertia.js-6366F1?style=for-the-badge&logo=inertia&logoColor=white" alt="inertiajs"/>
 </div>
 
-## 🌟 Most Used Languages
+## 🌟 Bahasa Yang digunakan
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurikhsanuddin&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss&count_private=true&border_radius=10" alt="Top Languages" />
