@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou Muhammad Sholahudin</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=1BF711&center=true&vCenter=true&lines=Web+Development;UI%2FUX+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&width=435&lines=Web+Development;UI%2FUX+Designer)](https://git.io/typing-svg">
 </div>
 
 <br>
