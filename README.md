@@ -10,12 +10,12 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh4ZWYyMjVldDgzY3NqNmJqcHZ4aGExamZ1dzF2d3lkc3Vpa3VybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SGM61AYjBkkdRb6peF/giphy.gif" width="30"> Tentang Saya
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh4ZWYyMjVldDgzY3NqNmJqcHZ4aGExamZ1dzF2d3lkc3Vpa3VybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SGM61AYjBkkdRb6peF/giphy.gif" width="30"> About Me
 
 - 🌱 I'm passionate about **Web Development** 
 - 🌼 Studying at Duta Bangsa University
 
-## 🛠️ Teknologi Yang Digunakan
+## 🛠️ Technology & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Inertia.js-6366F1?style=for-the-badge&logo=inertia&logoColor=white" alt="inertiajs"/>
 </div>
 
-## 🌟 Bahasa Yang digunakan
+## 🌟 Language in use
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurikhsanuddin&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss&count_private=true&border_radius=10" alt="Top Languages" />
