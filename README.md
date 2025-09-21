@@ -2,16 +2,17 @@
   <img src="img/banner.jpg" alt="Muhammad Nur Ikhsanuddin - Web Developer, Content Editor, Designer" width="100%">
 </div> -->
 
-<h1 align="center">Olá, eu sou Muhammad Sholahudin</h1>
+<h1 align="center">Hello World</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF711&center=true&vCenter=true&width=435&lines=Web+Development;UI%2FUX+Designer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturMaguntia&size=50&pause=1000&color=3FF70E&center=true&vCenter=true&width=440&lines=Web+Developer;UI%2FUX+Designer">
 </div>
 
 <br>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh4ZWYyMjVldDgzY3NqNmJqcHZ4aGExamZ1dzF2d3lkc3Vpa3VybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SGM61AYjBkkdRb6peF/giphy.gif" width="30"> About Me
 
+- 👋 My Name Is Muhammad Sholahudin
 - 🌱 I'm passionate about **Web Development** 
 - 🌼 Studying at Duta Bangsa University
 
@@ -71,9 +72,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nurikhsanuddin&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</div>
 
 <div align="center">
   
