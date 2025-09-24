@@ -16,7 +16,7 @@
 - 🌱 I'm passionate about **Web Development** 
 - 🌼 Studying at Duta Bangsa University
 
-## 🛠️ Technology & Tools
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFibmtlanV3ZHBuNnBxZzN5MXZyaHlnbjlwZHZ4Zzk2c2NqYjFkeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QkvMIMQwUoiq58caPt/giphy.gif" width="30"> Technology & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
@@ -36,14 +36,14 @@
   <img src="https://img.shields.io/badge/Inertia.js-6366F1?style=for-the-badge&logo=inertia&logoColor=white" alt="inertiajs"/>
 </div>
 
-## 🌟 Language in use
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ2OTR1bWJwcmQ0NWVzaHU0a2E2YTJoczNlYnNuNmdub3VpMGttZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30"> Language in use
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurikhsanuddin&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,scss&count_private=true&border_radius=10" alt="Top Languages" />
 </div>
 
 
-## 🎯 Skills
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR6MXlwcjY0OGh0cmd4c2NuOXM4d2toZzNyamR4ODF3YjM0MjRhcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/j4kEHQjSYA9VKKcNf6/giphy.gif" width="30"> Skills
 
 <table align="center">
   <tr>
